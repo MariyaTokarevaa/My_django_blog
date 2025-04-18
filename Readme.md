@@ -10,4 +10,4 @@
 
   Внешний вид сайта реализован при помощи платформы Bootstrap.
 
-  Учебный проект курса SPA сайт на Django Rest Framework и NuxtJS(https://stepik.org/course/82067/syllabus)
+  Учебный проект курса SPA сайт на Django Rest Framework и NuxtJS (https://stepik.org/course/82067/syllabus)
